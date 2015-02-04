@@ -9,8 +9,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
+title:               面壁者.陈
+tagline:             'to think your life and record my story'
 description:         'Just a little site for my work and musings.'
 url:                 localhost:4000
 baseurl:             /
